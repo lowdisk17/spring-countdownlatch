@@ -1,4 +1,4 @@
-# spring-exceptionhandlers
+# spring-countdownlatch
 A simple project to kickstart your spring boot and count down latch journey
 
 Note: In testing
